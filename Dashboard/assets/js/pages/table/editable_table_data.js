@@ -1,0 +1,1 @@
+$("#mainTable").editableTableWidget();
